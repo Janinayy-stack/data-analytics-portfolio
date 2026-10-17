@@ -4,7 +4,7 @@ Welcome to my data analytics portfolio! This repository documents my learning jo
 
 ## 📚 Table of Contents
 
-- [SQL](https://github.com/Janinayy-stack/sql-data-analysis/tree/main)
+- [SQL](#sql)
 - [Python](#python)
 - [Power BI](#power-bi)
 - [Tableau](#tableau)
