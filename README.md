@@ -15,7 +15,7 @@ Welcome to my data analytics portfolio! This repository documents my learning jo
 
 | Project Link | Area of Analysis | Project Description |
 | --- | --- | --- |
-| Heart Disease Dataset Analysis | Data cleaning, data analysis | Analyze a dataset and answer analytical questions using SQL queries. |
+| [Heart Disease Dataset Analysis](https://github.com/Janinayy-stack/sql-data-analysis/tree/main) | Data cleaning, data analysis | Analyze a dataset and answer analytical questions using SQL queries. |
 
 ---
 
