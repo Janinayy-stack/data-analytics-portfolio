@@ -6,6 +6,7 @@ Welcome to my data analytics portfolio! This repository documents my learning jo
 
 - [SQL](#sql)
 - [Python](#python)
+- [R](#R)
 - [Power BI](#power-bi)
 - [Tableau](#tableau)
 
@@ -27,6 +28,13 @@ Welcome to my data analytics portfolio! This repository documents my learning jo
 
 ---
 
+# R
+| Project Link | Area of Analysis | Project Description |
+| --- | --- | --- |
+| R Data Analysis | Data cleaning, exploratory data analysis | Clean data, investigate missing values, identify trends, and create visualizations. |
+
+---
+
 # Power BI
 
 | Project Link | Area of Analysis | Project Description |
@@ -40,3 +48,5 @@ Welcome to my data analytics portfolio! This repository documents my learning jo
 | Project Link | Area of Analysis | Project Description |
 | --- | --- | --- |
 | Tableau Dashboard | Data visualization, trend analysis | Create interactive visualizations to compare categories and explore trends. |
+
+
