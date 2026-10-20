@@ -16,7 +16,7 @@ Welcome to my data analytics portfolio! This repository documents my learning jo
 
 | Project Link | Area of Analysis | Project Description |
 | --- | --- | --- |
-| [Medical Cost Personal Datasets](https://github.com/Janinayy-stack/sql-data-analysis/tree/main) | Data cleaning, data analysis | Analyze a dataset and answer analytical questions using SQL queries. |
+| [Medical Cost Personal Datasets](https://github.com/Janinayy-stack/sql-data-analysis/tree/main) | Data cleaning, data analysis | This project uses SQL to analyze an insurance dataset and explore how age, sex, BMI, smoking status, and region relate to insurance charges. It includes checking the data, calculating averages, and comparing insurance costs across different groups to find useful patterns. |
 
 ---
 
