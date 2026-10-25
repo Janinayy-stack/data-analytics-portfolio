@@ -25,6 +25,7 @@ Welcome to my data analytics portfolio! This repository documents my learning jo
 | Project Link | Area of Analysis | Project Description |
 | --- | --- | --- |
 | [Salary Calculator](https://github.com/Janinayy-stack/python-data-analysis/blob/main/README.md) | Python Basics, Variables, User Input, Arithmetic Operations, Conditional Statements | Developed a basic Python program that calculates salary based on user-provided inputs and predefined calculation rules. |
+| [Customer Spending and EDA](https://github.com/Janinayy-stack/python-data-analysis/edit/main/README1.md) | Customer Spending Behavior, Purchase Patterns, Salary and Spending Relationships, Data Quality | Inspected and cleaned a customer dataset, checked missing values and duplicates, calculated spending rates, summarized customer data, and explored spending patterns by city, age group, and membership status.
 
 ---
 
