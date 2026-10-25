@@ -16,6 +16,7 @@ Welcome to my data analytics portfolio! This repository documents my learning jo
 
 | Project Link | Area of Analysis | Project Description |
 | --- | --- | --- |
+| [Public Health Facility](https://github.com/Janinayy-stack/sql-data-analysis/blob/main/README2.md)| Basic Data Analysis | This project uses basic SQL queries to analyze public health facility data, including testing positivity rates and comparing key health indicators across facilities or groups. It demonstrates data filtering, aggregation, and comparison to identify patterns that may support public health monitoring and reporting. |
 | [Medical Cost Personal Datasets](https://github.com/Janinayy-stack/sql-data-analysis/tree/main) | Data cleaning, data analysis | This project uses SQL to analyze an insurance dataset and explore how age, sex, BMI, smoking status, and region relate to insurance charges. It includes checking the data, calculating averages, and comparing insurance costs across different groups to find useful patterns. |
 
 ---
