@@ -23,6 +23,7 @@ Welcome to my data analytics portfolio! This repository documents my learning jo
 
 # Python
 
+| [Salary Calculator](https://github.com/Janinayy-stack/python-data-analysis/blob/main/README.md) | Python Basics, Variables, User Input, Arithmetic Operations, Conditional Statements | Developed a basic Python program that calculates salary based on user-provided inputs and predefined calculation rules. |
 
 ---
 
