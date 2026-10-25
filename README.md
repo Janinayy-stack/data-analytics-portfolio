@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-Welcome to my data analytics portfolio! This repository documents my learning journey and projects in data analysis, SQL, Python, and data visualization.
+Welcome to my data analytics portfolio! This repository documents my learning journey and projects in data analysis, SQL, Python, R, and data visualization.
 
 ## 📚 Table of Contents
 
