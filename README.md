@@ -18,7 +18,7 @@ Welcome to my data analytics portfolio! This repository documents my learning jo
 | --- | --- | --- |
 | [Public Health Facility](https://github.com/Janinayy-stack/sql-data-analysis/blob/main/README2.md)| Basic Data Analysis | Used SQL to analyze facility testing positivity rates and compare health indicators. |
 | [SQL Data Cleaning & Quality Checks](https://github.com/Janinayy-stack/sql-data-analysis/blob/main/README3.md) | Data Quality Assessment, Data Cleaning, Data Transformation, Missing Data, Duplicate Records, Facility Testing Indicators | Used SQLite to identify missing values, duplicates, inconsistencies, and calculate testing indicators.
-| [Medical Cost Personal Datasets](https://github.com/Janinayy-stack/sql-data-analysis/blob/main/README.md) | Used SQL to clean and analyze insurance charges across demographic and lifestyle groups. |
+| [Medical Cost Personal Datasets](https://github.com/Janinayy-stack/sql-data-analysis/blob/main/README.md) | Data Cleaning, Data Analysis | Used SQL to clean and analyze insurance charges across demographic and lifestyle groups.
 
 ---
 
