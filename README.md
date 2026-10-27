@@ -42,7 +42,7 @@ Welcome to my data analytics portfolio! This repository documents my learning jo
 
 | Project Link | Area of Analysis | Project Description |
 | --- | --- | --- |
-| [Medical Cost Personal Dashboard](https://github.com/Janinayy-stack/powerbi-data-viz/tree/main)  | KPI monitoring, data visualization | Build an interactive dashboard to monitor key metrics and communicate insights. |
+| [Medical Cost Personal Dashboard](https://github.com/Janinayy-stack/powerbi-data-viz/tree/main)  | Healthcare Analytics, Data Visualization | Developed an interactive Power BI dashboard to analyze medical insurance charges and cost trends. |
 
 ---
 
