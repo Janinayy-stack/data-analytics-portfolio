@@ -43,7 +43,7 @@ Welcome to my data analytics portfolio! This repository documents my learning jo
 | Project Link | Area of Analysis | Project Description |
 | --- | --- | --- |
 | [Medical Cost Personal Dashboard](https://github.com/Janinayy-stack/powerbi-data-viz/tree/main)  | Healthcare Analytics, Data Visualization | Developed an interactive Power BI dashboard to analyze medical insurance charges and cost trends. |
-| [Customer Analytics Dashboard] | Customer Analytics, Data Visualization | Developed an interactive Power BI dashboard to analyze customer demographics, loyalty tiers, and regional distribution. |
+| [Customer Analytics Dashboard](https://github.com/Janinayy-stack/powerbi-data-viz/blob/main/README2.md) | Customer Analytics, Data Visualization | Developed an interactive Power BI dashboard to analyze customer demographics, loyalty tiers, and regional distribution. |
 
 ---
 
